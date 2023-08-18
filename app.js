@@ -18,7 +18,7 @@ btn.addEventListener("click", function (e) {
   console.log(names);
   main.style.display = "none";
   mainSatu.style.display = "block";
-  spanName.innerHTML = `Hallo ${names}`;
+  spanName.innerHTML = `Haii ${names}`;
 });
 
 btnSatu.addEventListener("click", function (e) {
