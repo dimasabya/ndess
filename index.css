@@ -28,6 +28,7 @@
 .main img {
     width: 180px;
     height: 180px;
+    background-color: rgba(255, 0, 0, 0.648);
     border-radius: 100%;
     border-bottom: 2px solid black;
     box-shadow: 1px 4px 3px white;
@@ -117,6 +118,7 @@
 .main-tiga img,
 .main-empat img,
 .main-lima img {
+    background-color: rgba(255, 0, 0, 0.648);
     width: 180px;
     height: 180px;
     padding: .2rem;
