@@ -21,6 +21,7 @@
     text-align: center;
     position: relative;
     padding: 1rem;
+    border-radius: 10px;
 }
 
 .main img {
@@ -49,6 +50,7 @@
     position: relative;
     padding: 1rem;
     display: none;
+    border-radius: 10px;
 }
 
 .main-dua {
@@ -58,6 +60,7 @@
     position: relative;
     padding: 1rem;
     display: none;
+    border-radius: 10px;
 }
 
 .main-tiga {
@@ -67,6 +70,7 @@
     position: relative;
     padding: 1rem;
     display: none;
+    border-radius: 10px;
 }
 
 .main-empat {
@@ -76,6 +80,7 @@
     position: relative;
     padding: 1rem;
     display: none;
+    border-radius: 10px;
 }
 
 .main-lima {
@@ -85,6 +90,7 @@
     position: relative;
     padding: 1rem;
     display: none;
+    border-radius: 10px;
 }
 
 .main-satu .satu,
@@ -104,6 +110,8 @@
 .main-lima img {
     width: 180px;
     height: 180px;
+    padding: .2rem;
+    border-bottom: 1px solid black;
 }
 
 .main-satu span,
